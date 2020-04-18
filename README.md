@@ -59,7 +59,7 @@ and create line graph for happiness score and perform statistical analysis using
 
 ![](Images/Image_4.png)
 
-The line plot on the left shows mean happiness for all countries from 2015 through 2019. 2019 has the highest average happiness in this time frame. We also have similar line graphs for each measure. ..… For the interest of time, we will not be reviewing each one in detail during our presentation, but they are here in the slide deck appendix for your reference.
+The line plot on the left shows mean happiness for all countries from 2015 through 2019. 2019 has the highest average happiness in this time frame. We also have similar line graphs for each measure.[Jupyter notebook: Line_Graph.ipynb](Line_Graph.ipynb). For the interest of time, we will not be reviewing each one in detail during our presentation, but they are here in the slide deck appendix for your reference.
 
 Back to the main presentation… Over on the right, We have a bar chart that shows the standard deviation for each factor from 2015 through 2019 . It’s interesting to note that the standard deviation of the Happiness score is less than each of the happiness measures that make it up.
 

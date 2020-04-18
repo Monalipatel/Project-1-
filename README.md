@@ -15,6 +15,7 @@ We will be diving into different measures that make up happiness according to th
 We’ll look at data over 5 years, 2015 through 2019. and we’ll also find out how the 156 countries stack up against each other in the battle for the happiest country on earth
 
 What is Happiness?
+
 The quality of people’s lives can be coherently, reliably, and validly assessed by a variety of subjective well-being measures, collectively referred to then and in subsequent reports as “Happiness.”
 
 Well-being Measures Factors :

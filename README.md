@@ -40,7 +40,7 @@ This project requires Python 3.5 and the following Python libraries installed: P
 
 # Cleaning Data:
 
-We download the data from [CDC Wonder](https://worldhappiness.report/ed/2019/) and Clean data using pandas library in Python within a [Jupyter notebook: Data_Cleaning.ipynb](Data_Cleaning.ipynb)
+We download the data from (https://worldhappiness.report/ed/2019/) and Clean data using pandas library in Python within a [Jupyter notebook: Data_Cleaning.ipynb](Data_Cleaning.ipynb)
 
 ![](Images/Image_2.png)
 

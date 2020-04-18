@@ -39,7 +39,7 @@ Questions :
 2) Which years are the happiest for all countries? Which countries are the happiest in the happiest year? 
 3) How does each factor affect each other?
 
-Clean data using pandas library in Python within a Jupyter notebook: Data_Cleaning.ipynb
+Clean data using pandas library in Python within a [Jupyter notebook: Data_Cleaning.ipynb](Data_Cleaning.ipynb)
 
 ![](Images/Image_2.png)
 

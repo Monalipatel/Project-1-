@@ -52,7 +52,10 @@ Create Scatter plots and perform statistical analysis using various Python libra
 
 Here are 6 scatter plots with regression lines of the measures, or factors as we’ve been referring to them as,  that make up happiness score vs the actual happiness score. As expected, the factors all have a positive linear relationship with happiness. We've ranked them starting from the top left to the bottom right by slope. Economy has the highest slope which means it has the greatest linear relationship with happiness and Generosity has the lowest slope which means it has the smallest linear relationship with happiness.
 
-Mean Happiness Score and Standard Deviation 
+Mean Happiness Score and Standard Deviation:
+
+Create bar charts for standard Deviation within a [Jupyter notebook: bar_chart.ipynb](bar_chart.ipynb).
+and create line graph for happiness score and perform statistical analysis using various Python libraries within a [Jupyter notebook: Line_Graph.ipynb](Line_Graph.ipynb).
 
 ![](Images/Image_4.png)
 
@@ -62,7 +65,10 @@ Back to the main presentation… Over on the right, We have a bar chart that sho
 
 Even though there is much variation in the measures for family, economy, and health, the overall happiness score does not move much. When one factor falls it is compensated by a rise in another factor.
 
-Happiest Countries
+Happiest Countries:
+
+Create Chloropeth map and perform statistical analysis using various Python libraries within a [Jupyter notebook: Chloropeth_map.ipynb](Chloropeth_map.ipynb). 
+
 
 Now let’s see which are the happiest countries.
 
@@ -91,6 +97,8 @@ Highest Health Score Countries
 Lastly for health score, referencing to WHO’s data, the darker colored countries have higher healthy life expectancy compared to lighter colored ones. Topping the list are Asian countries: Singapore, Hong Kong and Japan.
 
 How does the factors affect each other?
+
+Create Corr matrix and perform statistical analysis using various Python libraries within a [Jupyter notebook: Corr_matrix.ipynb](Corr_matrix.ipynb). 
 
 ![](Images/Image_9.png)
 

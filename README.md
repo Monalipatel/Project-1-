@@ -28,11 +28,15 @@ Well-being Measures Factors :
 6) Trust or perceptions of corruption – answers the question “Is corruption widespread throughout the government or not?” and “Is corruption widespread within businesses or not?”
 
 Dependencies
+
 This project requires Python 3.5 and the following Python libraries installed:
 
 Pandas
+
 SciPy
+
 Numpy
+
 Matplotlib
 
 Questions :

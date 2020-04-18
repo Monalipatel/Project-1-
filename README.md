@@ -29,6 +29,7 @@ Well-being Measures Factors :
 Dependencies
 This project requires Python 3.5 and the following Python libraries installed:
 
+Pandas
 SciPy
 Numpy
 Matplotlib
@@ -43,7 +44,9 @@ Clean data using pandas library in Python within a [Jupyter notebook: Data_Clean
 
 ![](Images/Image_2.png)
 
-Factors affecting happiness
+Factors affecting happiness : 
+
+Create Scatter plots and perform statistical analysis using various Python libraries within a [Jupyter notebook: Scatter_Plots.ipynb](Scatter_Plots.ipynb). 
 
 ![](Images/Image_3.png)
 

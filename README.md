@@ -1,11 +1,10 @@
-# Project-1-
-World Happiness Report
+# Project-1- World Happiness Report
 
 # Team Members:
 
-Andrew Lau 
-Ryla
-Monali Patel
+ Andrew Lau 
+ Ryla
+ Monali Patel
 
 ![](Images/Image_1.png)
 

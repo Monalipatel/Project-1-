@@ -30,12 +30,7 @@ The quality of people’s lives can be coherently, reliably, and validly assesse
 
 # Dependencies
 
-This project requires Python 3.5 and the following Python libraries installed:
-
-Pandas
-SciPy
-Numpy
-Matplotlib
+This project requires Python 3.5 and the following Python libraries installed: Pandas,SciPy,Numpy,Matplotlib,geopandas.
 
 # Questions :
 
